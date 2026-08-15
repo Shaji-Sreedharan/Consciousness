@@ -32,7 +32,7 @@ The Cosmic Perspective: That means life on Earth is roughly 70% through its tota
 
 How much will natural selection change the human body and brain over the remaining 30% of life's total lifespan on Earth (roughly the next 1.6 billion years? The answer is zero, because humans will not exist for anything close to that long. If natural selection has had 4 billion years to produce the diversity of life we see today, how much more change could it produce in the next 1.6 billion years?
 
-The answer: An unimaginable amount. Potentially as much change as the difference between the first prokaryote and a human being. Possibly more. The Rate of Evolutionary Change Is Not ConstantEvolution is not a slow, steady march. It happens in bursts.
+The answer: An unimaginable amount. Potentially as much change as the difference between the first prokaryote and a human being. Possibly more. The Rate of Evolutionary Change Is Not Constant Evolution is not a slow, steady march. It happens in bursts.
 
 Era	              -                  Time Span	                -            Major Evolutionary Transition
 
