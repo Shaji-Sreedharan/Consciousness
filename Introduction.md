@@ -25,17 +25,28 @@ The central puzzle is evolutionary: If subjective feelings such as pain, fear, a
 
 No one clearly describes the theories of consciousness. Everyone interprets them in their own way. If a theory relies on other major proven theories, it would be a major determinant. A definitive theory of consciousness will be the one that can show subjective experience as the optimised solution to an evolutionary fitness function.
 
-Contents 
+Contents
+
 SECTION 1 - The History Of Life On Earth
+
 SECTION 2 - Evolution of Memory 
+
 SECTION 3 – Affective Survival Theory of consciousness (AST)
+
 SECTION 4 – Darwinian concept
+
 SECTION 5 - Darwin/Wallace governor analogy 
+
 SECTION 6 - From  Natural Selection as an Automatic Control System to Bayesian Selection to The AST Consciousness Model
+
 SECTION 7 - Adding the steps towards the conceptual consciousness equation
+
 SECTION 8 – Introducing Affective Survival Compass Metaphor & The Five Laws of Consciousness (AST)
+
 SECTION 9 - A Testable Prediction Framework for AST
+
 SECTION 10 - A concise AST treatment principle
+
 SECTION 11 - Contrasting AST with Predictive Processing
 
 
