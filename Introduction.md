@@ -12,7 +12,9 @@ Introduction
 <img width="1280" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/bc5a6120-516d-48ba-b2c7-6fb7e7082575" />
 
 Text Version
+
 Consciousness Evolutionary Foundations
+
 Welcome to the series of Consciousness studies
 
 Introduction 
