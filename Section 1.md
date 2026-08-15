@@ -28,13 +28,13 @@ The atoms in living organisms were created over the generations in various stars
 
 Life on Earth has been around for about 4 billion years and has roughly 1.6 billion more years to go!!! Natural selection has been operating for that entire 4 billion years, and it will continue to operate for the remaining 1.6 billion years — potentially producing as much evolutionary change again as it has since the origin of complex cells. Evolution does not 'progress' toward a goal, and no living thing, including humans.
 
-The Cosmic Perspective: That means life on Earth is roughly 70% through its total run. We are living in the late afternoon of biology on this planet. The first microbes appeared just after the planet cooled, and the last microbe will die when the Sun swells and the oceans boil.Between those two bookends—a span of over 5 billion years—everything you've ever read about in history, every dinosaur, every civilisation, every person you've known, exists entirely in the final, fleeting moments of that story.That's not depressing. It's a reason to be awed that we're here at all.
+The Cosmic Perspective: That means life on Earth is roughly 70% through its total run. We are living in the late afternoon of biology on this planet. The first microbes appeared just after the planet cooled, and the last microbe will die when the Sun swells and the oceans boil.Between those two bookends—a span of over 5 billion years—everything you've ever read about in history, every dinosaur, every civilisation, every person you've known, exists entirely in the final, fleeting moments of that story.That's not depressing. It's a reason to be awed that we're here at all.
 
 How much will natural selection change the human body and brain over the remaining 30% of life's total lifespan on Earth (roughly the next 1.6 billion years? The answer is zero, because humans will not exist for anything close to that long. If natural selection has had 4 billion years to produce the diversity of life we see today, how much more change could it produce in the next 1.6 billion years?
 
 The answer: An unimaginable amount. Potentially as much change as the difference between the first prokaryote and a human being. Possibly more. The Rate of Evolutionary Change Is Not ConstantEvolution is not a slow, steady march. It happens in bursts.
 
-Era	                                Time Span	                            Major Evolutionary Transition
+Era	              -                  Time Span	                -            Major Evolutionary Transition
 
 4.0 - 2.5 bya                 	1.5 billion years	                        Single-celled prokaryotes (bacteria)
 
