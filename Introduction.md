@@ -23,7 +23,7 @@ The study of consciousness remains among the most contested areas in philosophy,
 
 The central puzzle is evolutionary: If subjective feelings such as pain, fear, and pleasure were merely incidental by-products, natural selection should not have preserved them. The challenge, therefore, is to explain not only how consciousness arises, but why it exists at all.
 
-No one clearly describes the theories of consciousness. Everyone interprets them in their own way. If a theory relies on other major proven theories, it would be a major determinant. A definitive theory of consciousness will be the one that can show subjective experience as the optimised solution to an evolutionary fitness function.
+There is no clear description of the theories of consciousness. Everyone interprets them in their own way. If a theory relies on other major proven theories, it would be a major determinant. A definitive theory of consciousness will be the one that can show subjective experience as the optimised solution to an evolutionary fitness function.
 
 Contents
 
