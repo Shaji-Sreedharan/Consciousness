@@ -36,17 +36,17 @@ The answer: An unimaginable amount. Potentially as much change as the differen
 
 Era	              -                  Time Span	                -            Major Evolutionary Transition
 
-4.0 - 2.5 bya                 	1.5 billion years	                        Single-celled prokaryotes (bacteria)
+4.0 - 2.5 bya         -        	1.5 billion years	              -          Single-celled prokaryotes (bacteria)
 
-2.5 - 1.8 bya                  	0.7 billion years	                        Photosynthesis, oxygen atmosphere
+2.5 - 1.8 bya         -         	0.7 billion years	            -            Photosynthesis, oxygen atmosphere
 
-1.8 - 0.8 bya	                  1.0 billion years	                        First complex cells (eukaryotes)
+1.8 - 0.8 bya	        -          1.0 billion years	            -            First complex cells (eukaryotes)
 
-0.8 - 0.54 bya	                0.26 billion years	                      First multicellular animals
+0.8 - 0.54 bya	      -          0.26 billion years	            -          First multicellular animals
 
-0.54 - 0.5 bya	                0.04 billion years	                      Cambrian Explosion (most body plans appear)
+0.54 - 0.5 bya	      -          0.04 billion years	            -          Cambrian Explosion (most body plans appear)
 
-0.5 - 0.0 bya	                  0.5 billion years	                        Fish, land plants, amphibians, reptiles, mammals, humans
+0.5 - 0.0 bya	         -         0.5 billion years	             -           Fish, land plants, amphibians, reptiles, mammals, humans
 
 
 
