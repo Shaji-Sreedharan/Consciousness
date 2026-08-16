@@ -15,9 +15,6 @@ Introduction
 
 # $\color{red}\textsf{Text Version}$
 
-
-# Text Version
-
 # Consciousness Evolutionary Foundations
 
 ## Welcome to the series of Consciousness studies
