@@ -62,5 +62,25 @@ sensory cells distributed around the body
 Even though there is no brain, these neural networks can still change their activity based on past stimulation.
 That is the basis of their earliest memory.
 
+3. The first neural memory: synaptic change
+
+The earliest type of memory in jellyfish is believed to be short-term synaptic modification, a primitive form of learning.
+This mechanism is related to Synaptic Plasticity.
+
+Synaptic plasticity means:
+
+the strength of connections between neurons changes depending on previous activity.
+If a stimulus repeatedly activates a neural pathway, the connection becomes stronger or weaker.
+This allows the animal to respond differently the next time the stimulus occurs.
+
+4. Electrical signalling begins with action potentials
+
+Neurons in jellyfish communicate using electrical impulses called Action Potential.
+Process:
+
+A sensory cell detects a stimulus (touch, light, water movement). 
+This triggers an electrical spike in the neuron. 
+The spike travels along the neuron. 
+
 
 
