@@ -117,4 +117,16 @@ the response becomes stronger or weaker.
 This altered response is the memory.
 
 
+# $\color{red}\textsf{7. Evolutionary significance}$
+
+Jellyfish memory shows the first stage of neural information storage.
+The system consists of three elements:
+
+1. electrical signals (action potentials)
+
+2. chemical communication (neurotransmitters)
+
+3. plastic synapses (modifiable connections)
+
+## These are the same fundamental mechanisms used in human brains — only vastly more complex.
 
