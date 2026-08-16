@@ -249,9 +249,44 @@ avoidance.
 
 Thus, this feeling may have emerged as a biological tagging system for memory.
 
-13. The evolutionary sequence
-    
-The likely evolutionary progression looks like this:
+
+# $\color{red}\textsf{13. The evolutionary sequence}$    
+## The likely evolutionary progression looks like this:
+
+
+| Stage  | Innovation |
+| ------------- | ------------- |
+| Early cells   | biochemical memory   |
+| Jellyfish   |  short-term neural memory   |
+| Early bilaterians  | long-term neural memory   |
+| Vertebrates   | emotional systems  |
+| Mammals   | conscious awareness   |
+
+
+## This progression shows how memory complexity gradually increased.
+
+ ## In AST(will explain in next section) terms:
+
+
+. Early nervous systems began storing survival outcomes <br/>
+. Experiences needed value tags<br/> 
+. Those value signals became felt affective states 
+
+Thus, the evolutionary purpose of feeling becomes clear.
+
+## Feelings are how the brain marks experiences with survival value so they can guide future behaviour.
+  
+Under Affective Survival Theory, memory was the first step because organisms had to retain information about survival outcomes. Valuation evolved next because organisms had to distinguish beneficial from harmful conditions. Consciousness emerged when these valuation systems became integrated into a unified affective experience that could guide behaviour in real time.
+
+In this framework, consciousness is not an evolutionary accident. It is the culmination of billions of years of increasingly sophisticated systems for remembering, evaluating, and responding to the challenges of survival.
+
+## Memory evolved first.
+
+## Valuation evolved to guide memory.
+
+## Feeling emerged when valuation became internally experienced.
+
+
 
 
 
