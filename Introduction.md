@@ -11,15 +11,13 @@ Introduction
 
 <img width="1280" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/bc5a6120-516d-48ba-b2c7-6fb7e7082575" />
 
-<font size="20">  
-    Hello World 
-</font>
+
 
 # A first-level heading
 ## A second-level heading
 ### A third-level heading
 
-Text Version
+# Text Version
 
 Consciousness Evolutionary Foundations
 
