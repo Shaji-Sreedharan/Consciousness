@@ -12,18 +12,13 @@ Introduction
 <img width="1280" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/bc5a6120-516d-48ba-b2c7-6fb7e7082575" />
 
 
-
-# A first-level heading
-## A second-level heading
-### A third-level heading
-
 # Text Version
 
-Consciousness Evolutionary Foundations
+# Consciousness Evolutionary Foundations
 
-Welcome to the series of Consciousness studies
+## Welcome to the series of Consciousness studies
 
-Introduction 
+## Introduction 
 
 The study of consciousness remains among the most contested areas in philosophy, neuroscience, and cognitive science. David Chalmers (1995) famously identified the “hard problem of consciousness”: explaining why physical processes in the brain give rise to subjective experience — why it feels like something to be alive. While many scientific theories describe the mechanisms of awareness, none convincingly answer why evolution would produce conscious experience at all, given its apparent metabolic cost.
 
