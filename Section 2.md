@@ -21,6 +21,7 @@ Evolution of Memory
 <img width="1280" height="720" alt="Slide42" src="https://github.com/user-attachments/assets/24c51207-07d5-4bd8-9309-4c1372455bef" />
 <img width="1280" height="720" alt="Slide43" src="https://github.com/user-attachments/assets/e7c50307-16f9-4fcf-88a1-41754ab81123" />
 
+# $\color{red}\textsf{Text Version}$
 
 # SECTION 2
 
@@ -28,8 +29,8 @@ Evolution of Memory
 
 The evolution of memory in animals is an important, unavoidable development, as nervous systems gradually acquired the ability to store information about past experiences and use it to guide survival decisions. Memory did not appear suddenly; it evolved step by step alongside the evolution of nervous systems and behaviour.
 
-1. Early nervous systems (simple animals)
 
+# $\color{red}\textsf{1. Early nervous systems (simple animals)}$
 When animals evolved nervous systems (~600 million years ago), memory began to emerge as neural plasticity.
 
 In simple animals such as:
@@ -48,8 +49,7 @@ avoid harmful stimuli
 adjust movement patterns 
 A classic experimental animal used to study this is the sea slug Aplysia californica, which helped scientists understand how simple learning works.
 
-2. Jellyfish nervous system: no brain, only a nerve net
-
+# $\color{red}\textsf{2. Jellyfish nervous system: no brain, only a nerve net}$
 Jellyfish belong to the phylum Cnidaria, which evolved roughly 600 million years ago.
 Instead of a centralised brain, jellyfish possess a diffuse nerve network called a Nerve Net.
 
@@ -62,8 +62,7 @@ sensory cells distributed around the body
 Even though there is no brain, these neural networks can still change their activity based on past stimulation.
 That is the basis of their earliest memory.
 
-3. The first neural memory: synaptic change
-
+# $\color{red}\textsf{3. The first neural memory: synaptic change}$
 The earliest type of memory in jellyfish is believed to be short-term synaptic modification, a primitive form of learning.
 This mechanism is related to Synaptic Plasticity.
 
@@ -73,7 +72,7 @@ the strength of connections between neurons changes depending on previous activi
 If a stimulus repeatedly activates a neural pathway, the connection becomes stronger or weaker.
 This allows the animal to respond differently the next time the stimulus occurs.
 
-4. Electrical signalling begins with action potentials
+# $\color{red}\textsf{4. Electrical signalling begins with action potentials}$
 
 Neurons in jellyfish communicate using electrical impulses called Action Potential.
 
@@ -87,8 +86,8 @@ These signals propagate through the Nerve Net, which spreads across the jellyfis
 
 Unlike brains, the network is distributed, meaning signals can move in many directions.
 
-5. Neurotransmitters carry signals between neurons
 
+# $\color{red}\textsf{5. Neurotransmitters carry signals between neurons}$
 When an electrical signal reaches the end of a neuron, it triggers the release of chemical messengers called Neurotransmitter.
 
 Common neurotransmitters found in cnidarians include:
@@ -101,8 +100,8 @@ These chemicals cross the synapse and activate receptors on the next neuron.
 
 This converts the electrical signal → chemical signal → electrical signal again (Bioelectricity). The core process of consciousness generation.
 
-6. Repeated activity changes synaptic strength
 
+# $\color{red}\textsf{6. Repeated activity changes synaptic strength}$
 Memory forms when repeated neural activity changes how strongly neurons communicate.
 
 This phenomenon is called Synaptic Plasticity.
