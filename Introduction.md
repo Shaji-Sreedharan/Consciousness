@@ -24,7 +24,7 @@ Introduction
 
 ## Introduction 
 
-The study of consciousness remains among the most contested areas in philosophy, neuroscience, and cognitive science. David Chalmers (1995) famously identified the “hard problem of consciousness”: explaining why physical processes in the brain give rise to subjective experience — why it feels like something to be alive. While many scientific theories describe the mechanisms of awareness, none convincingly answer why evolution would produce conscious experience at all, given its apparent metabolic cost.
+- The study of consciousness remains among the most contested areas in philosophy, neuroscience, and cognitive science. David Chalmers (1995) famously identified the “hard problem of consciousness”: explaining why physical processes in the brain give rise to subjective experience — why it feels like something to be alive. While many scientific theories describe the mechanisms of awareness, none convincingly answer why evolution would produce conscious experience at all, given its apparent metabolic cost.
 
 The central puzzle is evolutionary: If subjective feelings such as pain, fear, and pleasure were merely incidental by-products, natural selection should not have preserved them. The challenge, therefore, is to explain not only how consciousness arises, but why it exists at all.
 
