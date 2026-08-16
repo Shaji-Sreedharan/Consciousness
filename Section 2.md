@@ -101,5 +101,22 @@ These chemicals cross the synapse and activate receptors on the next neuron.
 
 This converts the electrical signal → chemical signal → electrical signal again (Bioelectricity). The core process of consciousness generation.
 
+6. Repeated activity changes synaptic strength
+
+Memory forms when repeated neural activity changes how strongly neurons communicate.
+
+This phenomenon is called Synaptic Plasticity.
+
+Example in jellyfish:
+
+If a sensory pathway is repeatedly activated:
+more neurotransmitter may be released 
+receptors may become more sensitive 
+ion channels may change behaviour 
+
+As a result, the next time the same stimulus appears:
+the response becomes stronger or weaker.
+This altered response is the memory.
+
 
 
