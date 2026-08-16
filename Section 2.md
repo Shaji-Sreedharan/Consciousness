@@ -22,3 +22,32 @@ Evolution of Memory
 <img width="1280" height="720" alt="Slide43" src="https://github.com/user-attachments/assets/e7c50307-16f9-4fcf-88a1-41754ab81123" />
 
 
+SECTION 2
+
+Evolution of Memory
+
+The evolution of memory in animals is an important, unavoidable development, as nervous systems gradually acquired the ability to store information about past experiences and use it to guide survival decisions. Memory did not appear suddenly; it evolved step by step alongside the evolution of nervous systems and behaviour.
+
+1. Early nervous systems (simple animals)
+
+When animals evolved nervous systems (~600 million years ago), memory began to emerge as neural plasticity.
+
+In simple animals such as:
+
+jellyfish 
+
+worms 
+
+mollusks 
+
+Neurons could strengthen or weaken connections based on experience.
+This ability is called Synaptic Plasticity.
+Through synaptic plasticity, animals could:
+learn where food is located 
+avoid harmful stimuli 
+adjust movement patterns 
+A classic experimental animal used to study this is the sea slug Aplysia californica, which helped scientists understand how simple learning works.
+
+
+
+
