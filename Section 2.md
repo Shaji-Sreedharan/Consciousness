@@ -212,18 +212,46 @@ long-lasting neural circuits
 
 This allows memories to persist for days, months, or even years.
 
-11. Why long-term memory changed evolution
+# $\color{red}\textsf{11. Why long-term memory changed evolution}$
 
 Long-term memory allows animals to accumulate experience across their lifetime.
 
 Advantages include:
 
-learning predator locations\ 
-remembering food sources\ 
-recognizing mates\ 
-navigating environments.\
-Animals are no longer relying only on genetic instincts.\
+learning predator locations<br/>
+remembering food sources<br/> 
+recognizing mates<br/> 
+navigating environments.<br/>
+
+Animals are no longer relying only on genetic instincts.<br/>
 They gain individual knowledge of the world.
+
+
+# $\color{red}\textsf{12. Why long-term memory may have triggered early feelings}$
+
+Many neuroscientists suspect that affective states evolved alongside learning systems.
+Why?<br/>
+Because learning requires value signals.
+
+The brain must mark experiences as:
+
+good<br/> 
+bad <br/>
+important <br/>
+irrelevant. 
+
+These value signals likely evolved into primitive affective states such as:
+
+pleasure <br/>
+discomfort <br/>
+attraction <br/>
+avoidance. 
+
+Thus, this feeling may have emerged as a biological tagging system for memory.
+
+13. The evolutionary sequence
+    
+The likely evolutionary progression looks like this:
 
 
 
