@@ -130,3 +130,103 @@ The system consists of three elements:
 
 ## These are the same fundamental mechanisms used in human brains — only vastly more complex.
 
+# $\color{red}\textsf{8. Interpretation in Affective Survival Theory}$
+
+From the perspective of Affective Survival Theory (AST), these early neural systems are already performing a primitive survival evaluation.
+
+Repeated neural activity encodes whether a stimulus leads to:
+
+danger 
+
+safety 
+
+reward 
+
+neutrality. 
+
+Thus, jellyfish memory can be viewed as:
+
+The earliest neural encoding of survival value.
+Later in evolution, these survival signals become affective experiences such as pain, fear, and pleasure.
+
+Even in jellyfish:
+
+Action potentials carry signals 
+
+Neurotransmitters modify circuits 
+
+Synaptic plasticity stores past outcomes. 
+
+## This shows that memory begins as dynamic electrical-chemical patterns in neural networks.
+
+
+# $\color{red}\textsf{9. The invention of centralised brains}$
+
+Unlike jellyfish nerve nets, bilaterians evolved centralised neural structures.
+
+These included:
+
+primitive brains 
+nerve cords 
+sensory integration centres 
+
+Centralisation allowed:
+
+faster processing 
+coordinated behaviour 
+more complex learning. 
+In evolutionary terms, this was the birth of brain-based memory systems.
+
+## The "Nerve Net" Mode in the CNS(Central Nervous System)
+
+Since bioelectricity is the Common Language, every sensor feeds every muscle—it's a flat, broadcast system. Neuroplasticity and the brain's "degeneracy" (the same hardware doing different jobs): the CNS mimics the net's diffuse, "all-hands-on-deck" processing when sensory inputs are lost. 
+
+Example:
+
+In a blind/deaf person, the visual and auditory cortices don't go silent. They get "reclaimed" by touch, smell, and spatial awareness. Instead of a strict hierarchy (Eyes → Brain → Action), the system becomes more parallel and distributed, similar to a net. The visual cortex lights up during Braille reading (touch). The auditory cortex helps process echoes for echolocation (click-based navigation). The brain builds spatial maps using footstep vibrations and air currents on the skin.
+In a CNS, specialised pathways are "locked in" by anatomy. But when senses are lost, existing synapses strengthen, and new ones sprout—the bioelectric signals just take alternative routes, bypassing damaged "wires" and creating new networks that look functionally like a diffuse net.
+
+
+Evolution's "fallback plan." The CNS didn't abandon the nerve net's strategy—it overlapped it. Even in a healthy brain, life-threatening emergencies (e.g., a sudden fall) trigger net-like, full-body reflexes that bypass the brain entirely (spinal cord arcs). The CNS keeps the net's speed and redundancy tucked away for emergencies, while using its layered structure for everyday nuance.
+
+
+Psychedelics temporarily reorganise the brain's bioelectrical dynamics of neural signalling and communication of survival-related neural networks, allowing atypical integration of affective, sensory, memory, and predictive processes. Meditation and near-death experiences (NDEs) essentially alter large-scale brain dynamics of bioelectrical communication, as psychedelics do, just achieved through different doors: starvation of input(meditation) and extreme biological stress (NDEs).
+
+
+# $\color{red}\textsf{10. Molecular mechanism of long-term memory}$
+
+Short-term memory (like in jellyfish) involves temporary changes in neurotransmitter release.
+But long-term memory requires structural changes in neurons.
+
+This includes:
+
+creation of new synapses 
+growth of dendritic spines 
+changes in gene expression 
+
+One important molecular process involves is the transcription factor CREB.
+CREB (Cyclic AMP Response Element-Binding Protein)activates genes that produce proteins necessary for:
+
+synapse growth\
+long-lasting neural circuits
+
+This allows memories to persist for days, months, or even years.
+
+11. Why long-term memory changed evolution
+
+Long-term memory allows animals to accumulate experience across their lifetime.
+
+Advantages include:
+
+learning predator locations\ 
+remembering food sources\ 
+recognizing mates\ 
+navigating environments.\
+Animals are no longer relying only on genetic instincts.\
+They gain individual knowledge of the world.
+
+
+
+
+
+
