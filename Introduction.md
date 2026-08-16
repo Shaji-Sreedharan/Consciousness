@@ -12,6 +12,10 @@ Introduction
 <img width="1280" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/bc5a6120-516d-48ba-b2c7-6fb7e7082575" />
 
 
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+
 # Text Version
 
 # Consciousness Evolutionary Foundations
