@@ -19,10 +19,9 @@ The History Of Life On Earth
 <img width="1280" height="720" alt="Slide20" src="https://github.com/user-attachments/assets/75a59ac1-13b2-4d49-9ece-8f9810986eeb" />
 <img width="1280" height="720" alt="Slide21" src="https://github.com/user-attachments/assets/437047be-45ac-41d1-a892-e5f2b0b6563d" />
 
+# $\color{red}\textsf{Text Version}$
 
-Text Version
-
-The History Of Life On Earth
+# The History Of Life On Earth
 
 The atoms in living organisms were created over the generations in various stars. In this sense, hydrogen originated from the early universe, carbon was formed through stellar fusion, and oxygen came from dying stars, all contributing to a continuous cosmic process that eventually gave rise to biology and consciousness. You can consider life as a continuation of cosmic evolution through chemistry.
 
@@ -34,19 +33,17 @@ How much will natural selection change the human body and brain over the remaini
 
 The answer: An unimaginable amount. Potentially as much change as the difference between the first prokaryote and a human being. Possibly more. The Rate of Evolutionary Change Is Not Constant Evolution is not a slow, steady march. It happens in bursts.
 
-Era	              -                  Time Span	                -            Major Evolutionary Transition
+---------------
 
-4.0 - 2.5 bya         -        	1.5 billion years	              -          Single-celled prokaryotes (bacteria)
 
-2.5 - 1.8 bya         -         	0.7 billion years	            -            Photosynthesis, oxygen atmosphere
-
-1.8 - 0.8 bya	        -          1.0 billion years	            -            First complex cells (eukaryotes)
-
-0.8 - 0.54 bya	      -          0.26 billion years	            -          First multicellular animals
-
-0.54 - 0.5 bya	      -          0.04 billion years	            -          Cambrian Explosion (most body plans appear)
-
-0.5 - 0.0 bya	         -         0.5 billion years	             -           Fish, land plants, amphibians, reptiles, mammals, humans
+| Era | Time Span | Major Evolutionary Transition |
+| :---         |     :---:      |          ---: |
+| 4.0 - 2.5 bya    | 1.5 billion years     | Single-celled prokaryotes (bacteria)    |
+| 2.5 - 1.8 bya     | 0.7 billion years        | Photosynthesis, oxygen atmosphere  |
+| 1.8 - 0.8 bya     | 1.0 billion years        | First complex cells (eukaryotes)  |
+| 0.8 - 0.54 bya   | 0.26 billion years        | First multicellular animals  |
+| $\color{red}\textsf{0.54 - 0.5 bya  }$  | $\color{red}\textsf{ 0.04 billion years         }$     | $\color{red}\textsf{ Cambrian Explosion (most body plans appear) }$  |
+| 0.5 - 0.0 bya   | 0.5 billion years        | Fish, land plants, amphibians, reptiles, mammals, humans |
 
 
 Notice: The most dramatic changes (the Cambrian Explosion) occurred in just 40 million years — less than 1% of life's total history. In that blink, nearly every major animal body plan (arthropods, molluscs, chordates) appeared. So in the next 1.6 billion years, evolution could produce: Entirely new body plans (six-legged vertebrates? radial symmetry? something never seen?) New forms of intelligence (perhaps distributed hive minds, or plant-like neural networks) New sensory modalities (magnetic field navigation as sophisticated as our vision? quantum sensing?) New biochemical systems (non-carbon-based?  entirely novel metabolic pathways)
