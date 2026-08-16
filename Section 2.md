@@ -76,11 +76,30 @@ This allows the animal to respond differently the next time the stimulus occurs.
 4. Electrical signalling begins with action potentials
 
 Neurons in jellyfish communicate using electrical impulses called Action Potential.
+
 Process:
 
 A sensory cell detects a stimulus (touch, light, water movement). 
 This triggers an electrical spike in the neuron. 
 The spike travels along the neuron. 
+The signal reaches a junction with another neuron. 
+These signals propagate through the Nerve Net, which spreads across the jellyfish body.
+
+Unlike brains, the network is distributed, meaning signals can move in many directions.
+
+5. Neurotransmitters carry signals between neurons
+
+When an electrical signal reaches the end of a neuron, it triggers the release of chemical messengers called Neurotransmitter.
+
+Common neurotransmitters found in cnidarians include:
+
+glutamate-like molecules 
+GABA-like molecules 
+neuropeptides 
+
+These chemicals cross the synapse and activate receptors on the next neuron.
+
+This converts the electrical signal → chemical signal → electrical signal again (Bioelectricity). The core process of consciousness generation.
 
 
 
