@@ -72,10 +72,9 @@ the strength of connections between neurons changes depending on previous activi
 If a stimulus repeatedly activates a neural pathway, the connection becomes stronger or weaker.
 This allows the animal to respond differently the next time the stimulus occurs.
 
-# $\color{red}\textsf{4. Electrical signalling begins with action potentials}$
+# 4. Electrical signalling begins with action potentials
 
 Neurons in jellyfish communicate using electrical impulses called Action Potential.
-
 Process:
 
 A sensory cell detects a stimulus (touch, light, water movement). 
