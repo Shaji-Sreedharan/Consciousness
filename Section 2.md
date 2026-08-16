@@ -22,9 +22,9 @@ Evolution of Memory
 <img width="1280" height="720" alt="Slide43" src="https://github.com/user-attachments/assets/e7c50307-16f9-4fcf-88a1-41754ab81123" />
 
 
-SECTION 2
+# SECTION 2
 
-Evolution of Memory
+## Evolution of Memory
 
 The evolution of memory in animals is an important, unavoidable development, as nervous systems gradually acquired the ability to store information about past experiences and use it to guide survival decisions. Memory did not appear suddenly; it evolved step by step alongside the evolution of nervous systems and behaviour.
 
