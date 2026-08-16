@@ -14,6 +14,11 @@ Introduction
 <font size="20">  
     Hello World 
 </font>
+
+# A first-level heading
+## A second-level heading
+### A third-level heading
+
 Text Version
 
 Consciousness Evolutionary Foundations
