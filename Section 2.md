@@ -48,6 +48,19 @@ avoid harmful stimuli
 adjust movement patterns 
 A classic experimental animal used to study this is the sea slug Aplysia californica, which helped scientists understand how simple learning works.
 
+2. Jellyfish nervous system: no brain, only a nerve net
+
+Jellyfish belong to the phylum Cnidaria, which evolved roughly 600 million years ago.
+Instead of a centralised brain, jellyfish possess a diffuse nerve network called a Nerve Net.
+
+Characteristics of a nerve net:
+neurons spread across the body 
+signals travel in many directions 
+no central control center 
+sensory cells distributed around the body 
+
+Even though there is no brain, these neural networks can still change their activity based on past stimulation.
+That is the basis of their earliest memory.
 
 
 
