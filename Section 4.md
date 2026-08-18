@@ -135,16 +135,177 @@ What if it were gradually reorganised by selection pressures?
 # 5. Darwin Changes the Terrain
 
 Charles Darwin introduces something radical:
-Continuity.
-Species are not fixed.
+
+### Continuity.
+### Species are not fixed.
+
 They are shaped by gradual variation and selection.
+
 Complex traits emerge because they enhance survival and reproduction.
+
 Once you accept that framework, a new question becomes unavoidable:
+
 If consciousness exists,
+
 What adaptive function did it serve?
+
 This is not a metaphysical question.
+
 It is a biological one.
+
 And it changes the entire conversation.
 
+# 6 — Post-Darwinian Tension
+
+After Darwin, we cannot treat consciousness as:
+
+A divine insertion
+
+A static metaphysical substance
+
+An inexplicable human exception
+
+We must treat it as:
+
+A biological trait
+
+Emerging in degrees
+
+Present in varying forms across species
+
+### Shaped by survival pressures
+
+This forces uncomfortable questions:
+
+Did early organisms feel?
+
+Do animals feel?
+
+Is consciousness graded?
+
+And most importantly:
+
+### What survival advantage does feeling itself provide?
+
+# 7 — The Overlooked Consequence
+
+## Strangely, much of modern philosophy of mind still debates consciousness as if Darwin never happened.
+
+We argue about:
+
+Whether experience reduces to brain states.
+
+Whether it is fundamental.
+
+Whether it is computational.
+
+## But we often neglect the simplest evolutionary demand:
+
+Traits that persist must confer advantage.
+
+The brain consumes enormous energy.
+
+Conscious processing is metabolically expensive.
+
+Why would evolution sustain it unless it did something survival-critical?
+
+### That question destabilises the hard problem.
+
+Because it suggests that experience may not be an inexplicable byproduct.
+
+It may be a selected feature.
+
+# 8 — Continuity Across Life
+
+Darwin implies something else profound:
+
+There is no sharp divide between humans and other animals.
+
+If mental capacities evolved gradually, then:
+
+Fear in humans is continuous with fear in mammals.
+
+Pain in mammals is continuous with pain in simpler organisms.
+
+Motivational states predate complex cognition.
+
+Consciousness may not have appeared fully formed.
+
+It may have deep biological roots.
+
+That reframes the mystery.
+
+The question becomes not:
+
+“How does dead matter produce experience?”
+
+But:
+
+“How did living systems gradually internalise value?”
+
+## That is a different direction entirely.
+
+# 9 — The Strategic Shift
+
+
+## Pre-Darwinian framing:
+
+### Consciousness is a metaphysical anomaly.
+
+## Post-Darwinian framing:
+
+### Consciousness is a biological adaptation.
+
+The first asks:
+
+How can matter produce mind?
+
+The second asks:
+
+What survival problem did feeling solve?
+
+Notice how the second question is narrower.
+
+More grounded.
+
+Potentially more tractable.
+
+# 10 — Seeding the Future Argument
+
+If experience evolved, then it must:
+
+Influence behavior
+
+Encode value
+
+Guide action
+
+Improve fitness
+
+That suggests something provocative:
+
+Perhaps consciousness is not primarily about representing the world.
+
+Perhaps it is about valuing the world.
+
+That is not a full theory.
+
+### But it is a direction.
+
+And in future episodes, we will explore whether feeling is the internal language of survival itself.
+
+# 11 — Closing Transition
+
+The history of consciousness studies did not begin with evolution.
+
+But any serious future of consciousness studies must include it.
+
+Because once we place consciousness inside evolutionary history…
+
+The mystery does not disappear.
+
+### But it changes shape.
+
+## And sometimes changing the shape of a problem is the first step toward solving it.
 
 
