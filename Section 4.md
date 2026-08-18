@@ -72,6 +72,79 @@ Is it a fundamental substance?
 
 # Because evolution was not yet part of the conceptual toolkit.
 
+# 2. Descartes and the Mechanical Body
+
+Take René Descartes.
+
+He lived in a world where:
+
+Physics was becoming mechanistic.
+
+Matter was conceived as extended substance.
+
+Machines were becoming conceptual models for nature.
+
+# 3. Descartes split reality into:
+
+Res extensa — extended substance (matter)
+
+Res cogitans — thinking substance (mind)
+
+This division made sense in his intellectual environment.
+
+Mechanistic matter had no room for experience.
+
+So, the mind had to be something separate.
+
+But notice what is missing:
+
+## There is no evolutionary continuity.
+
+## No gradual emergence.
+
+## No adaptive shaping.
+
+Consciousness appears as a metaphysical category, not a biological development.
+
+# 4. The Static Gap
+
+In a pre-evolutionary worldview:
+
+The gap between matter and mind is absolute.
+
+Matter is mechanical.
+
+Mind is experiential.
+
+There is no historical bridge between them.
+
+If humans are specially created, then consciousness does not need a functional explanation.
+It is part of our metaphysical status.
+
+## The “hard problem” is born in this static conceptual world:
+
+How can mechanical matter ever produce subjective experience?
+
+But what if matter did not start mechanically in biological systems?
+
+What if it were gradually reorganised by selection pressures?
+
+## That possibility was invisible before Darwin.
+
+
+# 5. Darwin Changes the Terrain
+
+Charles Darwin introduces something radical:
+Continuity.
+Species are not fixed.
+They are shaped by gradual variation and selection.
+Complex traits emerge because they enhance survival and reproduction.
+Once you accept that framework, a new question becomes unavoidable:
+If consciousness exists,
+What adaptive function did it serve?
+This is not a metaphysical question.
+It is a biological one.
+And it changes the entire conversation.
 
 
 
