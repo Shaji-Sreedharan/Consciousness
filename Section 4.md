@@ -21,3 +21,51 @@
 <img width="1280" height="720" alt="Slide21" src="https://github.com/user-attachments/assets/ec9314fa-45fa-4790-b2d7-d3ce93bac5d0" />
 <img width="1280" height="720" alt="Slide22" src="https://github.com/user-attachments/assets/38e777c1-b369-4091-96c5-a194c944899d" />
 
+## Text Version
+## SECTION 4
+# Darwinian concept
+
+# 1. The Pre-Darwinian Worldview
+
+Before the 19th century, the dominant intellectual landscape looked like this:
+
+The universe was static.
+
+Species were fixed.
+
+Humans were special creations.
+
+Mind was often treated as distinct from nature.
+
+## Before and After Darwin
+ The Missing Dimension in Consciousness Studies
+
+We asked:
+
+“So how does feeling exist?”
+
+Now we must ask a different question:
+
+Why have we been asking that question the way we do?
+
+Because the way a problem is framed determines the kinds of answers that seem possible.
+And for most of history, the problem of consciousness was framed without evolution.
+That matters more than we realise.
+
+In that context, consciousness appeared mysterious for a simple reason:
+
+It did not seem to arise from anything.
+
+It was simply there.
+
+Philosophers debated its metaphysical status:
+
+Is it separate from matter?
+
+Is it reducible to matter?
+
+Is it a fundamental substance?
+
+
+
+
