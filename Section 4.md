@@ -66,6 +66,12 @@ Is it reducible to matter?
 
 Is it a fundamental substance?
 
+## But almost no one asked:
+
+## What did it evolve for?
+
+# Because evolution was not yet part of the conceptual toolkit.
+
 
 
 
