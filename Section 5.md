@@ -159,5 +159,86 @@ Conscious affect regulates behaviour moment-to-moment.
 
 So, AST can be framed as:
 
-Natural selection built an internal regulatory system — consciousness.
+### Natural selection built an internal regulatory system — consciousness.
+
+## 7. The Key Insight: Affect is the Internal Governor
+
+In AST, experiences like:
+pain
+fear
+hunger
+pleasure
+curiosity
+social belonging
+
+act as affective regulators.
+
+Example:
+
+<img width="1798" height="319" alt="image" src="https://github.com/user-attachments/assets/6ad970ee-74be-4271-8220-90a4b2725398" />
+
+These signals correct behaviour before survival failure occurs.
+
+This mirrors Wallace’s description. Evolution prevents large maladaptive deviations.
+
+AST adds:
+
+### Affect prevents behavioural deviations from survival.
+
+## 8. The Control System Structure
+
+This creates a nested regulatory architecture.
+
+<img width="628" height="530" alt="image" src="https://github.com/user-attachments/assets/b7de303a-acd7-47eb-a2f2-286658b13e2a" />
+
+So, consciousness becomes:
+
+### The organism-level feedback controller is engineered by evolution.
+
+## A Simple Interpretation
+
+Wallace’s analogy can be summarised like this:
+
+🧠 Steam engine governor:
+
+Speed increases → regulator activates → speed corrected.
+
+🧬 Natural selection:
+
+Bad trait appears → survival decreases → trait eliminated.
+
+Both are self-correcting systems.
+
+## The Darwin–Wallace Governor Model clarifies several major puzzles.
+
+### Why consciousness exists
+
+To regulate behaviour in survival-relevant contexts.
+
+### Why experiences feel good or bad
+
+Valence encodes evolutionary value.
+
+### Why emotions drive action
+
+They are regulatory control signals.
+
+### Why cognition evolved
+
+To improve survival prediction and behavioural regulation.
+
+Natural selection built consciousness as the organism’s internal governor, regulating behaviour through felt value to maintain survival.
+
+
+### “Evolution built a governor in the Nerve System.”
+
+Just as the steam engine governor prevents mechanical instability,
+
+affective consciousness prevents behavioural instability.
+
+# Summary
+
+Darwin/Wallace says that nature is a self-regulating machine. Just as a steam engine has a built-in part to stop it from spinning out of control, the natural world has a built-in filter: survival. If a creature has a trait that doesn't work well, nature "corrects" the error by making sure that the creature doesn't survive. This keeps the entire species healthy and "balanced" by constantly weeding out minor mistakes before they become major ones.
+
+Wallace’s famous metaphor of the steam-engine governor can be read today as an early intuition of Bayesian error-correction in nature. Life proposes variations; the environment tests them; and those that undermine survival are swiftly removed. AST adds the crucial phenomenological step: this alignment is not only biological but felt. Consciousness emerges when survival-relevant error, need, and value are no longer merely corrected by selection across generations, but are experienced directly as affect within the living organism.
 
