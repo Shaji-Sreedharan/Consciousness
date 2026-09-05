@@ -28,4 +28,136 @@ The passage quoted here comes from the early explanation of natural selection gi
 
 Darwin/Wallace governor analogy can actually strengthen Affective Survival Theory (AST) in a very powerful way. It provides a historical foundation showing that evolution itself operates as a feedback regulation system( or Survival Control System), which fits naturally with AST’s claim that conscious experience regulates survival behaviour through affect
 
+Wallace’s analogy is highly compatible with AST because it implies that evolution is not a distant, mechanical filter alone, but an immediate corrective process. In AST, this correction occurs through affective experience: when an organism is poorly fitted to survival conditions, that mismatch is felt as difficulty, distress, or reduced vitality. These felt states function like nature’s warning signals, guiding behaviour and shaping selection before maladaptive traits can spread widely. Thus, natural selection and affective consciousness are linked: evolution works not only through external elimination, but through the internal felt consequences of survival success and failure.
+
+The Mechanical Analogy: The Centrifugal Governor
+
+The device in the picture is the Centrifugal governor.
+
+How the device works
+
+Two metal balls spin on arms attached to a rotating shaft.
+
+When the engine runs too fast, centrifugal force pushes the balls outward.
+
+This movement closes the steam valve, reducing fuel flow.
+
+The engine slows down automatically.
+
+When the engine slows, the balls fall inward, and the valve opens again.
+
+In other words, it is an automatic feedback control system that stabilises engine speed.
+
+Wallace’s Insight: Natural Selection Works the Same Way
+
+Wallace argued that natural selection regulates biological systems in a similar self-correcting way.
+
+His claim:
+
+If an organism develops a trait that is too weak or maladaptive, the effect is immediately harmful.
+Examples:Slower running speed 
+Poor eyesight, Inefficient metabolism, Weak immune system, Such traits make survival harder immediately.
+
+Result:
+
+❌ The organism struggles
+
+❌ It reproduces less
+
+❌ The trait disappears quickly
+
+So evolutionary “errors” rarely grow large.
+
+## 1. The Deeper Concept: Early Feedback in Evolution
+
+Wallace is describing something modern scientist's call:
+
+Negative Feedback
+
+A system that automatically corrects deviations.
+
+Examples today:Thermostats,Cruise control,Biological homeostasis,Neural regulation
+
+The governor was one of the first engineered feedback systems, so Wallace used it as a metaphor.
+
+Later scholars even said Wallace’s idea resembles cybernetics (feedback control theory). 
+
+## 2. What Wallace Was Trying to Prove
+
+At the time, critics asked:
+
+If evolution is random variation, why don't organisms become chaotic or dysfunctional?
+
+Wallace’s answer:
+
+Because natural selection constantly stabilises life. Just as the steam governor prevents the engine from spinning out of control, selection prevents harmful traits from accumulating.
+
+## 3. The Evolutionary Implications
+
+The quote leads to several conclusions. Wallace then mentions:
+
+Evolution produces:
+
+Gradual specialisation of organs
+
+Divergence of species from a common ancestor
+
+Persistence of minor traits (colour, ornamentation)
+
+Improved efficiency of useful structures
+
+These arise because selection continuously filters variations. 
+
+## 4. Why This Quote Is Historically Important
+
+This metaphor is famous because it shows that Wallace understood evolution as a self-regulating system, not just random change.
+
+Today we might say:
+
+Natural selection is a feedback-controlled adaptive system. In modern terms, Wallace anticipated ideas later used in:
+
+systems biology
+
+cybernetics
+
+complex systems theory
+
+## 5. Wallace’s Governor = Evolutionary Feedback Control
+
+The idea:
+
+Variation introduces change. Selection removes harmful deviations. Populations stabilise around adaptive traits.This is essentially a negative feedback system.
+
+System logic:
+
+Deviation from survival optimum
+
+↓
+
+Selection pressure increases
+
+↓
+
+Maladaptive traits removed
+
+↓
+
+System returns toward equilibrium
+
+So, natural selection acts like a planet-scale regulatory mechanism.
+
+## 6. AST Extends This Idea Inside the Organism
+
+AST proposes that conscious experience performs the same regulatory function inside the organism.
+
+Evolution regulates species over generations.
+
+Conscious affect regulates behaviour moment-to-moment.
+
+<img width="1726" height="200" alt="image" src="https://github.com/user-attachments/assets/4b2e6ca0-e161-4e80-911b-a86e3eaa842c" />
+
+
+So, AST can be framed as:
+
+Natural selection built an internal regulatory system — consciousness.
 
