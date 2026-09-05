@@ -18,3 +18,14 @@
 <img width="1280" height="720" alt="Slide018" src="https://github.com/user-attachments/assets/a30bae92-e53b-4d02-9c27-c48c4790de0a" />
 <img width="1280" height="720" alt="Slide019" src="https://github.com/user-attachments/assets/8fb08c69-69bd-4f22-9bfc-64a0a8458154" />
 
+## Text Version
+## SECTION 5
+# Darwin/Wallace governor analogy
+
+The passage quoted here comes from the early explanation of natural selection given by Alfred Russel Wallace (and conceptually shared with Charles Darwin) in the famous 1858 paper presented to the Linnean Society of London. The analogy compares natural selection to the mechanical regulation system of a steam engine.
+
+“The action of this principle is exactly like that of the centrifugal governor of the steam engine, which checks and corrects any irregularities almost before they become evident; and in like manner no unbalanced deficiency in the animal kingdom can ever reach any conspicuous magnitude, because it would make itself felt at the very first step, by rendering existence difficult and extinction almost sure soon to follow.”
+
+Darwin/Wallace governor analogy can actually strengthen Affective Survival Theory (AST) in a very powerful way. It provides a historical foundation showing that evolution itself operates as a feedback regulation system( or Survival Control System), which fits naturally with AST’s claim that conscious experience regulates survival behaviour through affect
+
+
