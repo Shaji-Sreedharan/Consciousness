@@ -17,3 +17,11 @@
 <img width="1280" height="720" alt="Slide017" src="https://github.com/user-attachments/assets/b0423b45-e78f-4c1a-925a-1d760370ee17" />
 <img width="1280" height="720" alt="Slide018" src="https://github.com/user-attachments/assets/823fb9c8-5e92-4816-883a-dd7677136682" />
 <img width="1280" height="720" alt="Slide019" src="https://github.com/user-attachments/assets/5c281595-aa0e-41f8-840a-0077c8e0168b" />
+
+
+# SECTION 10
+## A concise AST treatment principle
+<i Important>
+< One important real-world note:
+
+If this question is personal or connected to symptoms happening now, the safest next step is urgent support from a mental health professional or crisis service, because psychosis needs proper clinical assessment.<img width="7132" height="355" alt="image" src="https://github.com/user-attachments/assets/1daf8329-d0c8-416c-baae-503958229f39" />
